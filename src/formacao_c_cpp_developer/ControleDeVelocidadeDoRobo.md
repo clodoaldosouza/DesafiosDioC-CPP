@@ -27,7 +27,7 @@ representando a velocidade mínima e máxima do robô, respectivamente.
 A segunda linha contém uma sequência de comandos (com no máximo 100 caracteres), onde: 'A' representa uma aceleração e '
 D' representa uma desaceleração. Desta maneira, a entrada seria da seguinte maneira:
 
-* `Vmin Vmax`: ambos valores int.
+* `Vmin Vmax`: ambos valores int.
 * `comandos`: string.
 
 Saída

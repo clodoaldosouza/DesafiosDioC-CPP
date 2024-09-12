@@ -25,7 +25,7 @@ Entrada
 
 A entrada deverá receber as informações do objeto Pessoa, conforme exemplo abaixo:
 
-* `nome (string)`
+* `nome (string)`
 * `idade (int)`
 
 Saída
